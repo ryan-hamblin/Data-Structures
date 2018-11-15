@@ -8,6 +8,8 @@ class Heap:
 
   def delete(self):
     pass
+        # Foobar
+
 
   def get_max(self):
     pass
