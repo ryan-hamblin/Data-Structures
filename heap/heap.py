@@ -4,6 +4,7 @@ class Heap:
 
   def insert(self, value):
     pass
+    # Foobar
 
   def delete(self):
     pass
